@@ -341,7 +341,7 @@ assets/
 
 Then add it to this README:
 
-![S&P 500 Power BI Dashboard](assets/sp500-dashboard.png)
+https://github.com/subhadeepnandy/S-P-500-Stock-Market-Analysis-Dashboard-Using-Power-BI/blob/main/.gitattributes
 
 📁 Suggested GitHub Repository Structure
 
