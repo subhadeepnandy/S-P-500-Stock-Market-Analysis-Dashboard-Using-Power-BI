@@ -170,7 +170,7 @@ Explore market recovery and more recent stock-market movements.
 
 The Date slicer allows users to select different periods and compare price trends and trading activity.
 
-🗂️ Dataset Description
+🗂️ Dataset Description :- https://www.kaggle.com/datasets/darkmatternet/s-and-p-500-stocks-25-years-of-data-updated-daily?select=sp500_companies.csv
 
 sp500_companies
 
